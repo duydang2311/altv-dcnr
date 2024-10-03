@@ -1,0 +1,4 @@
+client-type = 'csharp'
+client-main = 'bin/CnR.Client.dll'
+client-files = ['bin/*']
+deps = []

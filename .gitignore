@@ -10,3 +10,6 @@ resources/*
 !resources/server
 resources/server/*
 !resources/server/resource.toml
+!resources/client
+resources/client/*
+!resources/client/resource.toml
