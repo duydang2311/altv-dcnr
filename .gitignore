@@ -1,0 +1,12 @@
+altv-server.exe
+altv-crash-handler.exe
+AltV.Net.Host.dll
+AltV.Net.Host.runtimeconfig.json
+.server-crashes-cache/
+cache/
+data/
+modules/
+resources/*
+!resources/server
+resources/server/*
+!resources/server/resource.toml

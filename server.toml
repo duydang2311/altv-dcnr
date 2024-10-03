@@ -1,0 +1,15 @@
+name = 'alt:V D. Cops and Robbers'
+port = 7788
+players = 128
+announce = false
+gamemode = 'Freeroam'
+language = 'en'
+description = 'alt:V Sample Server'
+modules = ['csharp-module']
+resources = ['server', 'client']
+debug = true
+spawnAfterConnect = false
+newSync = true
+
+[csharp-module]
+disableDependencyDownload = true

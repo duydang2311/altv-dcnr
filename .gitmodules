@@ -1,0 +1,6 @@
+[submodule "projects/ui"]
+	path = projects/ui
+	url = git@github.com:duydang2311/altv-dcnr-ui.git
+[submodule "projects/altv"]
+	path = projects/altv
+	url = git@github.com:duydang2311/altv-dcnr-altv.git

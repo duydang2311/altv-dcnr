@@ -1,0 +1,31 @@
+[18:07:37] alt:V Server 16.2.13 (release)
+[18:07:37] Starting alt:V D. Cops and Robbers on [::]:7788
+[18:07:37] Loading resource server
+[18:07:38] Loaded resource server
+[18:07:38] Loading resource client
+[18:07:38] Loaded resource client
+[18:07:38] Required server permissions:
+[18:07:38] Optional server permissions:
+[18:07:38] Starting HTTP server on [::]:7788
+[18:07:38] Main thread started (ThreadId: 7768)
+[18:07:38] EntityStreamer thread started (ThreadId: 17440)
+[18:07:38] SyncSend thread started (ThreadId: 5700)
+[18:07:38] SyncSend thread started (ThreadId: 13916)
+[18:07:38] SyncSend thread started (ThreadId: 14460)
+[18:07:38] SyncSend thread started (ThreadId: 16892)
+[18:07:38] SyncSend thread started (ThreadId: 16600)
+[18:07:38] SyncSend thread started (ThreadId: 1408)
+[18:07:38] SyncSend thread started (ThreadId: 9552)
+[18:07:38] SyncSend thread started (ThreadId: 14796)
+[18:07:38] SyncReceive thread started (ThreadId: 8912)
+[18:07:38] NetworkWorker #1 thread started (ThreadId: 18180)
+[18:07:38] SyncReceive thread started (ThreadId: 17420)
+[18:07:38] SyncReceive thread started (ThreadId: 15496)
+[18:07:38] SyncReceive thread started (ThreadId: 6164)
+[18:07:38] Console thread started (ThreadId: 16684)
+[18:07:38][Warning] Server started in debug mode
+[18:07:57] Stopping resource server
+[18:07:57] Stopped resource server
+[18:07:57] Stopping resource client
+[18:07:57] Stopped resource client
+[18:07:57] Server shutdown
